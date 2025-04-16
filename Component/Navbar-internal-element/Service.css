@@ -73,7 +73,10 @@
     gap: 10px;
     transform: translateX(90px);
   }
-
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+  }
 
   .nav-item {
     position: relative;

@@ -1066,7 +1066,7 @@ textarea{
 }
 @media (max-width: 600px) {
   .timeline {
-    padding-left: 30px;
+    padding-left: 15px;
   }
 
   .timeline-icon {

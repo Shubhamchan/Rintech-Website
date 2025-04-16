@@ -536,6 +536,9 @@ small {
     .text-container h1 {
       font-size: 0.8rem;
     }
+    .text-container-image-down {
+      transform: translateX(0px);
+    }
     .third-wrapper .text-container {
       order: 1;
     }

@@ -521,7 +521,21 @@ small {
       align-items: center;  
       text-align: center;  
     }
-   
+      .text-container .svg-text {
+      font-size: 0.4rem;
+    }
+    .svg-text-container h1 {
+      font-size: 1rem;
+    }
+    .svg-text-container h2 {
+      font-size: 0.6rem;
+    }
+    .svg-text-container p {
+      font-size: 0.6rem;
+    }
+    .text-container h1 {
+      font-size: 0.8rem;
+    }
     .third-wrapper .text-container {
       order: 1;
     }

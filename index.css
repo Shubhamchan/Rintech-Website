@@ -216,8 +216,9 @@ body {
 }
 .content h1 span {
   font-weight: bold;
-  font-size: 3.3rem;
+  font-size: 3rem;
   color: #9f7566;
+  margin-right: 15px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
